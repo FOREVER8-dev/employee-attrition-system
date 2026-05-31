@@ -10,7 +10,7 @@ This project aims to predict employee attrition using Machine Learning technique
 Employee attrition can increase recruitment and training costs, reduce productivity, and lead to the loss of experienced talent. Therefore, companies need a data-driven approach to identify employees at risk of resignation and support retention strategies.
 
 ## Dataset
-* url of the dataset can be visited in here: https://raw.githubusercontent.com/nelson-wu/employee-attrition-ml/master/WA_Fn-UseC_-HR-Employee-Attrition.csv
+* The url of the dataset can be visited here: https://raw.githubusercontent.com/nelson-wu/employee-attrition-ml/master/WA_Fn-UseC_-HR-Employee-Attrition.csv
 * Total Employees: 1,470
 * Target Variable: Attrition (Yes/No)
 * Domain: Human Resources Analytics
